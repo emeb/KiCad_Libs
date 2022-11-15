@@ -1,0 +1,245 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 150080M153000
+D Tricolor Black Surface LED, Common Anode Pin 4, PLCC-4
+K led rgb diode
+F https://docs.broadcom.com/docs/AV02-4194EN
+$ENDCMP
+#
+$CMP 150505M173300
+D High Brightness Tri-Color LED, RGB, 5x5mm
+K LED RGB Diode
+$ENDCMP
+#
+$CMP 74HC125_5u
+D Quad buffer 3 State out
+K TTL buffer 3State
+$ENDCMP
+#
+$CMP ASMB-KTF0-0A306
+D Tricolor Black Surface LED, Common Anode Pin 4, PLCC-4
+K led rgb diode
+F https://docs.broadcom.com/docs/AV02-4194EN
+$ENDCMP
+#
+$CMP CONN_CONUFL001-SMD-T_LNX
+D coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)
+K BNC SMA SMB SMC coaxial connector CINCH RCA
+F  ~
+$ENDCMP
+#
+$CMP CUI_RCJ-044
+D coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)
+K BNC SMA SMB SMC coaxial connector CINCH RCA
+F  ~
+$ENDCMP
+#
+$CMP Crystal_4pin_SMD
+D 4-pin SMD
+K Quartz, Ceramic, Filter, Resonator
+$ENDCMP
+#
+$CMP ILI9341_SPI
+D Generic connector, single row, 01x14
+K connector
+F ~
+$ENDCMP
+#
+$CMP JACK_TRS_5PINS
+D audio jack TRS 6 pins
+K audio jack connector TRS
+$ENDCMP
+#
+$CMP LD1117_tab
+D 800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT223
+K REGULATOR LDO 3.3V
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf
+$ENDCMP
+#
+$CMP LM4040
+D Zener Diode, alternativ symbol
+K diode
+F https://en.wikipedia.org/wiki/Zener_diode
+$ENDCMP
+#
+$CMP MCP1824x-OT
+D 50mA Low Dropout Regulator with ERROR output in 5-Pin SOT-23 package
+K LDO regulator voltage
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21350E.pdf
+$ENDCMP
+#
+$CMP Mini-DIN-6
+D 6-pin Mini-DIN connector
+K Mini-DIN
+F http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf
+$ENDCMP
+#
+$CMP R-781.5-0.5
+D 500mA Step-Down DC/DC-Regulator, 4.75-30V input, 1.5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78xx-0.5.pdf
+$ENDCMP
+#
+$CMP R-781.8-0.5
+D 500mA Step-Down DC/DC-Regulator, 4.75-32V input, 1.8V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78xx-0.5.pdf
+$ENDCMP
+#
+$CMP R-781.8-1.0
+D 1A Step-Down DC/DC-Regulator, 4.75-18V input, 1.8V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78xx-1.0.pdf
+$ENDCMP
+#
+$CMP R-7812-0.5
+D 500mA Step-Down DC/DC-Regulator, 15-32V input, 12V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78xx-0.5.pdf
+$ENDCMP
+#
+$CMP R-7815-0.5
+D 500mA Step-Down DC/DC-Regulator, 18-32V input, 15V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78xx-0.5.pdf
+$ENDCMP
+#
+$CMP R-782.5-0.5
+D 500mA Step-Down DC/DC-Regulator, 4.75-18V input, 2.5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78xx-0.5.pdf
+$ENDCMP
+#
+$CMP R-782.5-1.0
+D 1A Step-Down DC/DC-Regulator, 4.75-18V input, 2.5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78xx-1.0.pdf
+$ENDCMP
+#
+$CMP R-783.3-0.5
+D 500mA Step-Down DC/DC-Regulator, 4.75-18V input, 3.3V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78xx-0.5.pdf
+$ENDCMP
+#
+$CMP R-783.3-1.0
+D 1A Step-Down DC/DC-Regulator, 4.75-18V input, 3.3V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78xx-1.0.pdf
+$ENDCMP
+#
+$CMP R-785.0-0.5
+D 500mA Step-Down DC/DC-Regulator, 6.5-18V input, 5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78xx-0.5.pdf
+$ENDCMP
+#
+$CMP R-785.0-1.0
+D 1A Step-Down DC/DC-Regulator, 6.5-18V input, 5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78xx-1.0.pdf
+$ENDCMP
+#
+$CMP R-786.5-0.5
+D 500mA Step-Down DC/DC-Regulator, 8-32V input, 6.5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78xx-0.5.pdf
+$ENDCMP
+#
+$CMP R-78C1.8-1.0
+D 1A Step-Down DC/DC-Regulator, 5-42V input, 1.8V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78Cxx-1.0.pdf
+$ENDCMP
+#
+$CMP R-78C12-1.0
+D 1A Step-Down DC/DC-Regulator, 15-42V input, 12V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78Cxx-1.0.pdf
+$ENDCMP
+#
+$CMP R-78C15-1.0
+D 1A Step-Down DC/DC-Regulator, 18-42V input, 15V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78Cxx-1.0.pdf
+$ENDCMP
+#
+$CMP R-78C3.3-1.0
+D 1A Step-Down DC/DC-Regulator, 6-42V input, 3.3V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78Cxx-1.0.pdf
+$ENDCMP
+#
+$CMP R-78C5.0-1.0
+D 1A Step-Down DC/DC-Regulator, 7-42V input, 5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78Cxx-1.0.pdf
+$ENDCMP
+#
+$CMP R-78C9.0-1.0
+D 1A Step-Down DC/DC-Regulator, 12-42V input, 9V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78Cxx-1.0.pdf
+$ENDCMP
+#
+$CMP R-78E12-0.5
+D 500mA Step-Down DC/DC-Regulator, 15-28V input, 12V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf
+$ENDCMP
+#
+$CMP R-78E15-0.5
+D 500mA Step-Down DC/DC-Regulator, 18-28V input, 15V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf
+$ENDCMP
+#
+$CMP R-78E3.3-0.5
+D 500mA Step-Down DC/DC-Regulator, 6-28V input, 3.3V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf
+$ENDCMP
+#
+$CMP R-78E3.3-1.0
+D 1A Step-Down DC/DC-Regulator, 6-28V input, 3.3V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78Exx-1.0.pdf
+$ENDCMP
+#
+$CMP R-78E5.0-0.5
+D 500mA Step-Down DC/DC-Regulator, 7-28V input, 5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf
+$ENDCMP
+#
+$CMP R-78E5.0-1.0
+D 1A Step-Down DC/DC-Regulator, 7-28V input, 5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78Exx-1.0.pdf
+$ENDCMP
+#
+$CMP R-78E9.0-0.5
+D 500mA Step-Down DC/DC-Regulator, 12-28V input, 9V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3
+K dc-dc recom Step-Down DC/DC-Regulator
+F https://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf
+$ENDCMP
+#
+$CMP STM32H730VBTx
+D ARM Cortex-M7 MCU, 2048KB flash, 864KB RAM, 400MHz, 1.7-3.6V, 82 GPIO, LQFP-100
+K ARM Cortex-M7 STM32H7 STM32H7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00388325.pdf
+$ENDCMP
+#
+$CMP TC1055
+D 100mA Low Dropout Regulator with ERROR output in 5-Pin SOT-23 package
+K LDO regulator voltage
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21350E.pdf
+$ENDCMP
+#
+$CMP TC1186
+D 150mA Low Dropout Regulator with ERROR output in 5-Pin SOT-23 package
+K LDO regulator voltage
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21350E.pdf
+$ENDCMP
+#
+#End Doc Library
